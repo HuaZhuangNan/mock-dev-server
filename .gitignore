@@ -1,0 +1,4 @@
+.vscode
+*.lock
+*lock.json
+node_modules
