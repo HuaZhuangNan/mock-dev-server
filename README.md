@@ -90,3 +90,7 @@
 ```
 
 ## 调用简单日志: 见 log.js
+
+## License
+
+[MIT](./LICENSE) © HuaZhuangNan(花妆男)
